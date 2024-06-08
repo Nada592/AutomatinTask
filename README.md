@@ -1,6 +1,6 @@
 ### Automation Task
 ## Tools
-Eclipse
-Selenium
-WebDriver
-ChromeDriver
+*Eclipse
+*Selenium
+*WebDriver
+*ChromeDriver
