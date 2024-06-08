@@ -1,4 +1,5 @@
 ### Automation Task
+This repository contains detailed test cases for the register, login, logout and create order test cases.
 ## Tools
 * Eclipse
 * Selenium WebDriver
